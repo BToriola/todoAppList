@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+body{
+    padding: 20px;
+}
+.hover-cursor{
+    cursor: pointer;
+}
+.jumbotron{
+    color: rgb(255, 255, 255);
+    background-color: rgb(89, 121, 190);
+}
